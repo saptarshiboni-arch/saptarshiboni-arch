@@ -118,12 +118,10 @@ Generative AI**
 
 # 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saptarshiboni-arch&show_icons=true&theme=radical&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saptarshiboni-arch&layout=compact&theme=radical&hide_border=true" height="180"/>
-</p>
-
----
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=saptarshiboni-arch&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=saptarshiboni-arch&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=saptarshiboni-arch&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 🔥 Contribution Streak
 
