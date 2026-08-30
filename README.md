@@ -1,17 +1,19 @@
 <div align="center">
 
-  <!-- Moving Animated Light Above Typing Text -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F2FE&height=25&section=header&animation=twinkling" alt="Top Moving Light" width="80%" />
+  <!-- Moving Laser Light Banner (TOP) -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,00F2FE,4FACFE&height=8&section=header" alt="Top Laser Light" width="70%" />
 
-  <br/>
+  <br/><br/>
 
   <!-- Animated Typing Text -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Saptarshi+Chowdhury;AI%2FML+Developer+%26+Python+Enthusiast;Building+AI-Driven+Web+Applications;Welcome+to+my+GitHub+Profile!" alt="Typing Header" />
   </a>
 
-  <!-- Cyan Laser Light Divider Below Text -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00F2FE&height=2&section=header" alt="Laser Divider" width="60%" />
+  <br/>
+
+  <!-- Moving Laser Light Banner (BOTTOM) -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,00F2FE,4FACFE&height=8&section=header" alt="Bottom Laser Light" width="70%" />
 
   <br/><br/>
 
