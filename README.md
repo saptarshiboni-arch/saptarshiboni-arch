@@ -135,7 +135,7 @@ Generative AI**
 
 ## 📈 Contribution Graph
 
-[![Saptarshi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saptarshiboni-arch&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true)](https://github.com/saptarshiboni-arch)
+![Saptarshi's GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saptarshiboni-arch&theme=github_dark)
 
 # 🏆 Hackathons & Activities
 
