@@ -160,7 +160,7 @@ Generative AI**
   <img src="https://raw.githubusercontent.com/saptarshiboni-arch/saptarshiboni-arch/main/assets/github-contribution-grid-3d.svg" alt="3D Contribution Graph" width="600" />
 </p>
 ##
-# 🏆 Hackathons & Activities
+## 🏆 Hackathons & Activities
 
 🚀 Participating in technical hackathons  
 💡 Building AI-based real-world solutions  
