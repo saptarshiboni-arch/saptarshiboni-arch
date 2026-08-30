@@ -146,10 +146,16 @@ Generative AI**
 
 </div>
 
-## 📈 Contribution Graph
 
-![Saptarshi's GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saptarshiboni-arch&theme=github_dark)
 
+  ## 📈 Contribution Graph
+  <div align="center">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saptarshiboni-arch&theme=github_dark" alt="Saptarshi's GitHub Profile Summary" />
+
+</div>
+
+##
 <p align="center">
   <img src="https://raw.githubusercontent.com/saptarshiboni-arch/saptarshiboni-arch/main/assets/github-contribution-grid-3d.svg" alt="3D Contribution Graph" width="600" />
 </p>
