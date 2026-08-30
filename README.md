@@ -133,13 +133,9 @@ Generative AI**
 
 ![GitHub Trophies](https://github-profile-trophy.screw-hand.vercel.app/?username=saptarshiboni-arch&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=6)
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saptarshiboni-arch&theme=react-dark&hide_border=true" />
-</p>
-
----
+[![Saptarshi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saptarshiboni-arch&theme=react-dark&hide_border=true)](https://github.com/saptarshiboni-arch)
 
 # 🏆 Hackathons & Activities
 
