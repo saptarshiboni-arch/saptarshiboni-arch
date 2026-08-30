@@ -116,9 +116,10 @@ Generative AI**
 
 ---
 
-<div align="center">
+
 
   # 📊 GitHub Statistics
+  <div align="center">
 
   <img src="https://github-readme-stats.shion.dev/api?username=saptarshiboni-arch&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
   
@@ -127,6 +128,7 @@ Generative AI**
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=saptarshiboni-arch&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 
 </div>
+
 # 🔥 Contribution Streak
 
 <p align="center">
