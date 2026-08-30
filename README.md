@@ -1,23 +1,21 @@
 <div align="center">
 
-  <!-- Cyberpunk GIF Header Banner -->
+  <!-- Top Tech Banner -->
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Cyberpunk Banner" width="100%" />
 
   <br/><br/>
 
-  <!-- Animated Typing SVG -->
+  <!-- Animated Typing Text -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Saptarshi+Chowdhury;AI%2FML+Developer+%26+Python+Enthusiast;Building+AI-Driven+Web+Applications;Welcome+to+my+GitHub+Profile!" alt="Typing Header" />
   </a>
 
-  <br/>
-
-  <!-- Animated Neon Line Separator (Option 4 style) -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-6202-4217-bf42-e1c9448106a5.gif" alt="Animated Neon Divider" width="90%" />
+  <!-- Animated Line Placed Directly Underneath Text -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-6202-4217-bf42-e1c9448106a5.gif" alt="Animated Divider" width="80%" />
 
   <br/><br/>
 
-  <!-- Tech Focus & Stack Badges -->
+  <!-- Focus & Stack Badges -->
   <img src="https://img.shields.io/badge/Focus-AI--Healthcare--Apps-38BDF8?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Stack-Python_%7C_JS_%7C_React-10B981?style=for-the-badge&logo=javascript&logoColor=white" />
 
