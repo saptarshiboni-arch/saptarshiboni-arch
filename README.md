@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Moving Laser Light Banner (TOP) -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,00F2FE,4FACFE&height=8&section=header" alt="Top Laser Light" width="70%" />
+  <!-- Moving Laser Light (Animated GIF) -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-6202-4217-bf42-e1c9448106a5.gif" alt="Top Moving Laser Light" width="70%" />
 
   <br/><br/>
 
@@ -12,7 +12,7 @@
 
   <br/>
 
-  <!-- Moving Laser Light Banner (BOTTOM) -->
+  <!-- Bottom Laser Line -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,00F2FE,4FACFE&height=8&section=header" alt="Bottom Laser Light" width="70%" />
 
   <br/><br/>
