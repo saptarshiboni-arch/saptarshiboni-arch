@@ -1,17 +1,17 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff758c,100:ff7eb3&height=180&section=header&text=Saptarshi%20Chowdhury&fontSize=42&fontColor=ffffff&animation=twinkling" alt="Synthwave Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=180&section=header&text=Saptarshi%20Chowdhury&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="Soft Gradient Header" width="100%" />
 
   <br/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF7EBB&center=true&vCenter=true&width=600&lines=AI%2FML+Developer;Python+Enthusiast;Building+AI-Driven+Web+Applications;Problem+Solver;Welcome+to+my+GitHub+Profile!" alt="Typing Subtitle" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=AI%2FML+Developer;Python+Enthusiast;Building+AI-Driven+Web+Applications;Problem+Solver;Welcome+to+my+GitHub+Profile!" alt="Typing Subtitle" />
   </a>
 
   <br/><br/>
 
-  <img src="https://komarev.com/ghpvc/?username=saptarshiboni-arch&color=ff7ebb&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/saptarshiboni-arch?style=flat-square&color=ff7ebb" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=saptarshiboni-arch&color=00f2fe&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/saptarshiboni-arch?style=flat-square&color=00f2fe" alt="Followers" />
 
 </div>
 ## 🧠 About Me
