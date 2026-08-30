@@ -5,10 +5,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Saptarshi+Chowdhury;AI%2FML+Developer+%26+Python+Enthusiast;Building+AI-Driven+Web+Applications;Welcome+to+my+GitHub+Profile!" alt="Typing Header" />
   </a>
 
-  <br/>
-
-  <!-- Animated Line Placed Directly Under Text -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-6202-4217-bf42-e1c9448106a5.gif" alt="Animated Divider" width="80%" />
+  <!-- Animated Gradient Divider Bar -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,00F2FE,4FACFE&height=4&section=header" alt="Divider" width="70%" />
 
   <br/><br/>
 
