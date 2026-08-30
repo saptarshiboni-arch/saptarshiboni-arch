@@ -1,11 +1,12 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,26,35&height=200&section=header&text=Hey,%20I'm%20Saptarshi!&fontSize=42&fontColor=38BDF8&animation=twinkling&desc=AI%2FML%20Developer%20%7C%20Python%20Enthusiast%20%7C%20Problem%20Solver&descSize=18" alt="Header Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F2FE,100:4FACFE&height=120&text=Saptarshi%20Chowdhury&fontSize=45&fontColor=ffffff&stroke=000000&strokeWidth=1" alt="Animated Header" width="100%" />
 
-  <br/><br/>
+  <br/>
 
-  <img src="https://komarev.com/ghpvc/?username=saptarshiboni-arch&color=007ec6&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/saptarshiboni-arch?style=flat-square&color=blue" alt="Followers" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=AI%2FML+Developer;Python+Enthusiast;Problem+Solver" alt="Typing Subtitle" />
+  </a>
 
 </div>
 ## 🧠 About Me
