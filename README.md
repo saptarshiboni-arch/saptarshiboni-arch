@@ -137,7 +137,7 @@ Generative AI**
 ![Saptarshi's GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saptarshiboni-arch&theme=github_dark)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saptarshiboni-arch/saptarshiboni-arch/main/assets/github-contribution-grid-3d.svg" alt="3D Contribution Graph" width="80%" />
+  <img src="https://raw.githubusercontent.com/saptarshiboni-arch/saptarshiboni-arch/main/assets/github-contribution-grid-3d.svg" alt="3D Contribution Graph" width="600" />
 </p>
 
 # 🏆 Hackathons & Activities
