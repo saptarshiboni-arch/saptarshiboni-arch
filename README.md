@@ -1,15 +1,18 @@
-<h1 align="center">👋 Hey, I'm Saptarshi Chowdhury</h1>
+<div align="center">
 
-<h3 align="center">
-AI/ML Developer • Python Enthusiast • Problem Solver
-</h3>
+  <h1>👋 Hey, I'm Saptarshi Chowdhury</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saptarshiboni-arch&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/saptarshiboni-arch?label=Followers&style=flat" />
-</p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=AI%2FML+Developer;Python+Enthusiast;Building+AI-Driven+Web+Applications;Problem+Solver;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  </a>
 
----
+  <br/>
+
+  <!-- Your existing badges -->
+  <img src="https://komarev.com/ghpvc/?username=saptarshiboni-arch&color=007ec6&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/saptarshiboni-arch?style=flat-square&color=blue" alt="Followers" />
+
+</div>
 
 ## 🧠 About Me
 
