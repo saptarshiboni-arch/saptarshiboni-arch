@@ -137,9 +137,13 @@ Generative AI**
 
 ---
 
-## 🏆 GitHub Trophies
+<div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.screw-hand.vercel.app/?username=saptarshiboni-arch&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=6)
+  ## 🏆 GitHub Trophies
+
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=saptarshiboni-arch&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=6" alt="GitHub Trophies" />
+
+</div>
 
 ## 📈 Contribution Graph
 
