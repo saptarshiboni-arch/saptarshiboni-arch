@@ -3,16 +3,14 @@
   <!-- Elegant Dark Gradient Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,15,28&height=180&section=header&text=Saptarshi%20Chowdhury&fontSize=42&fontColor=38BDF8&animation=twinkling" alt="Saptarshi Banner" width="100%" />
 
-  <br/>
+  <br/><br/>
 
   <!-- Clean Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=AI%2FML+Developer+%26+Python+Enthusiast;Building+AI-Driven+Web+Applications;Welcome+to+my+GitHub+Profile!" alt="Typing Header" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=40&lines=AI%2FML+Developer+%26+Python+Enthusiast;Building+AI-Driven+Web+Applications;Welcome+to+my+GitHub+Profile!" alt="Typing Header" />
   </a>
 
-  <br/><br/>
-
-  <!-- Minimal Minimalist Divider -->
+  <!-- Minimal Minimalist Divider (Placed directly under typing text) -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=38BDF8&height=2&section=header" alt="Divider" width="50%" />
 
   <br/><br/>
