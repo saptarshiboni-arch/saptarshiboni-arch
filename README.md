@@ -1,12 +1,16 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F2FE,100:4FACFE&height=120&text=Saptarshi%20Chowdhury&fontSize=45&fontColor=ffffff&stroke=000000&strokeWidth=1" alt="Animated Header" width="100%" />
+  <h1>👋 Hey, I'm Saptarshi Chowdhury</h1>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=AI%2FML+Developer;Python+Enthusiast;Building+AI-Driven+Web+Applications;Problem+Solver;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  </a>
 
   <br/>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=AI%2FML+Developer;Python+Enthusiast;Problem+Solver" alt="Typing Subtitle" />
-  </a>
+  <!-- Your existing badges -->
+  <img src="https://komarev.com/ghpvc/?username=saptarshiboni-arch&color=007ec6&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/saptarshiboni-arch?style=flat-square&color=blue" alt="Followers" />
 
 </div>
 ## 🧠 About Me
