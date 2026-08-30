@@ -1,20 +1,17 @@
 <div align="center">
 
-  <!-- Cyberpunk Top Banner Animation -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,26,35&height=180&section=header&text=Saptarshi%20Chowdhury&fontSize=42&fontColor=38BDF8&animation=twinkling" alt="Cyberpunk Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&section=header&text=Saptarshi%20Chowdhury&fontSize=42&fontColor=00FF66&animation=matrix" alt="Matrix Header" width="100%" />
 
   <br/>
 
-  <!-- Animated Typing Subtitle -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=AI%2FML+Developer;Python+Enthusiast;Building+AI-Driven+Web+Applications;Problem+Solver;Welcome+to+my+GitHub+Profile!" alt="Typing Subtitle" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=AI%2FML+Developer;Python+Enthusiast;Building+AI-Driven+Web+Applications;Problem+Solver;Welcome+to+my+GitHub+Profile!" alt="Typing Subtitle" />
   </a>
 
   <br/><br/>
 
-  <!-- Profile Badges -->
-  <img src="https://komarev.com/ghpvc/?username=saptarshiboni-arch&color=007ec6&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/saptarshiboni-arch?style=flat-square&color=blue" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=saptarshiboni-arch&color=00ff66&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/saptarshiboni-arch?style=flat-square&color=00ff66" alt="Followers" />
 
 </div>
 ## 🧠 About Me
