@@ -5,20 +5,14 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Saptarshi+Chowdhury;AI%2FML+Developer+%26+Python+Enthusiast;Building+AI-Driven+Web+Applications;Welcome+to+my+GitHub+Profile!" alt="Typing Header" />
   </a>
 
-  <!-- Animated Gradient Divider Bar -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,00F2FE,4FACFE&height=4&section=header" alt="Divider" width="70%" />
+  <!-- Laser Divider SVG -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F2FE&height=25&section=header&animation=twinkling" alt="Laser Divider" width="80%" />
 
   <br/><br/>
 
-  <!-- Focus & Stack Badges -->
+  <!-- Badges -->
   <img src="https://img.shields.io/badge/Focus-AI--Healthcare--Apps-38BDF8?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Stack-Python_%7C_JS_%7C_React-10B981?style=for-the-badge&logo=javascript&logoColor=white" />
-
-  <br/><br/>
-
-  <!-- Profile Metrics -->
-  <img src="https://komarev.com/ghpvc/?username=saptarshiboni-arch&color=007ec6&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/saptarshiboni-arch?style=flat-square&color=blue" alt="Followers" />
 
 </div>
 
