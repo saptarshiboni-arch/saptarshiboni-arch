@@ -1,14 +1,14 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=15,23,42,0,242,254&height=180&section=header&text=Saptarshi%20Chowdhury&fontSize=42&fontColor=ffffff" alt="Cylinder Header" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=👋+Hey,+I'm+Saptarshi+Chowdhury!;💻+AI%2FML+Developer+%26+Python+Enthusiast;🚀+Welcome+to+my+GitHub+Profile!" alt="Big Header Typing" />
 
-  <br/>
+  <br/><br/>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=AI%2FML+Developer;Python+Enthusiast;Building+AI-Driven+Web+Applications;Problem+Solver;Welcome+to+my+GitHub+Profile!" alt="Typing Subtitle" />
-  </a>
+  <img src="https://img.shields.io/badge/Focus-AI_Healthcare_Apps-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Frontend-React_|_HTML_|_CSS-green?style=for-the-badge&logo=javascript" />
 
 </div>
+
 ## 🧠 About Me
 
 🎓 **B.Tech in Computer Science & Engineering (AI & ML)**  
