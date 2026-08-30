@@ -1,17 +1,12 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:00F2FE,100:4FACFE&height=180&section=header&text=Saptarshi%20Chowdhury&fontSize=42&fontColor=ffffff" alt="Slice Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=15,23,42,0,242,254&height=180&section=header&text=Saptarshi%20Chowdhury&fontSize=42&fontColor=ffffff" alt="Cylinder Header" width="100%" />
 
   <br/>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=AI%2FML+Developer;Python+Enthusiast;Building+AI-Driven+Web+Applications;Problem+Solver;Welcome+to+my+GitHub+Profile!" alt="Typing Subtitle" />
   </a>
-
-  <br/><br/>
-
-  <img src="https://komarev.com/ghpvc/?username=saptarshiboni-arch&color=007ec6&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/saptarshiboni-arch?style=flat-square&color=blue" alt="Followers" />
 
 </div>
 ## 🧠 About Me
