@@ -1,26 +1,31 @@
 <div align="center">
 
-  <!-- Top Banner with Your Name -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00F2FE&height=120&section=header&text=Saptarshi%20Chowdhury&fontSize=42&fontColor=ffffff&stroke=000000&strokeWidth=1" alt="Saptarshi Banner" width="100%" />
+  <!-- Elegant Dark Gradient Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,15,28&height=180&section=header&text=Saptarshi%20Chowdhury&fontSize=42&fontColor=38BDF8&animation=twinkling" alt="Saptarshi Banner" width="100%" />
 
-  <br/><br/>
+  <br/>
 
-  <!-- Animated Typing Text -->
+  <!-- Clean Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=AI%2FML+Developer+%26+Python+Enthusiast;Building+AI-Driven+Web+Applications;Welcome+to+my+GitHub+Profile!" alt="Typing Header" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=AI%2FML+Developer+%26+Python+Enthusiast;Building+AI-Driven+Web+Applications;Welcome+to+my+GitHub+Profile!" alt="Typing Header" />
   </a>
 
   <br/><br/>
 
-  <!-- Focus & Stack Badges -->
-  <img src="https://img.shields.io/badge/Focus-AI--Healthcare--Apps-38BDF8?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stack-Python_%7C_JS_%7C_React-10B981?style=for-the-badge&logo=javascript&logoColor=white" />
+  <!-- Minimal Minimalist Divider -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=38BDF8&height=2&section=header" alt="Divider" width="50%" />
+
+  <br/><br/>
+
+  <!-- Unified Slate Badges -->
+  <img src="https://img.shields.io/badge/Focus-AI--Healthcare--Apps-0F172A?style=for-the-badge&logo=python&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Stack-Python_%7C_JS_%7C_React-0F172A?style=for-the-badge&logo=javascript&logoColor=10B981" />
 
   <br/><br/>
 
   <!-- Profile Metrics -->
-  <img src="https://komarev.com/ghpvc/?username=saptarshiboni-arch&color=007ec6&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/saptarshiboni-arch?style=flat-square&color=blue" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=saptarshiboni-arch&color=38bdf8&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/saptarshiboni-arch?style=flat-square&color=38bdf8" alt="Followers" />
 
 </div>
 
