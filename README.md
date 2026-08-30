@@ -32,14 +32,6 @@ technology and experimenting with intelligent systems.
 
 ---
 
-# 🚀 Featured Project
-
-## 🦴 BoneTalk
-
-**An AI-powered accessibility project focused on communication.**
-
-BoneTalk explores how AI and intelligent signal processing can help
-bridge communication barriers.
 
 ### 🔥 What I'm Exploring
 
