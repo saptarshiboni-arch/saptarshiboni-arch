@@ -137,7 +137,7 @@ Generative AI**
   # 📊 GitHub Statistics
   <div align="center">
 
-  <img src="https://github-readme-stats.shion.dev/api?username=saptarshiboni-arch&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=saptarshiboni-arch&theme=dark&hide_border=false&include_all_commits=false&count_private=false&hide_rank=true" alt="GitHub Stats" />
   
   <br/>
   
