@@ -194,3 +194,7 @@ Computer Vision        █████████████░░░░
 Generative AI          ███████████░░░░░░
 Python                 ████████████████░░
 Backend Development    ████████████░░░░░
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saptarshiboni-arch/saptarshiboni-arch/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
